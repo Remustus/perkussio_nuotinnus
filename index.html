@@ -1,0 +1,52 @@
+<html ng-app="myApp"> 
+  <head> 
+    <!-- Include 3rd party libraries -->
+     <script src="files/d3.js" charset="UTF-8"></script>
+      <script src="files/angular.js" charset="UTF-8"></script> 
+    <!--<script src="bower_components/d3/d3.js" charset="UTF-8"></script>
+    <script src="bower_components/angular/angular-1.4.3/angular.js" charset="UTF-8">    </script>-->  
+    <script src="factories.js"></script> 
+    <script src="app.js"></script>  
+    <script src="rhythm.js"></script>
+    <script src="soundCells.js"></script>
+    <script src="scatter.js"></script>
+    <link href="files/app.css" rel="stylesheet">
+        <!--<style>
+     svg {
+        width: 960px;
+        height: 700px;
+        border: 1px solid gray;
+      }
+      .table {
+        width: 960px;
+        height: 700px;
+        overflow: scroll;
+      }
+      .axis {
+        font-size: 10px;
+      }
+      .axis path {
+        fill: none;
+        stroke: #000000;
+      }
+      .axis .tick line {
+        stroke: #000;
+      }
+        .uusi_luokka{
+          fill-rule:evenodd      
+        }
+    </style> -->
+  </head>
+  <body>
+    
+    <div ng-controller="MainCtrl">
+        Rytmit:
+        <select ng-model="selRhythm" ng-options="rhy.name for rhy in rhythms">
+        </select>  
+        <!--<dje-notation>-->
+        <dje-rhythm rhythm="selRhythm" saverhythm="saverhythm(rhythm_data)" instruments="instruments">       
+        </dje-rhythm>
+       
+      </div>
+  </body> 
+</html>

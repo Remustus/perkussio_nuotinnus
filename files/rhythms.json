@@ -1,0 +1,631 @@
+[{
+   "name":"soli",
+    "pattern_length":12,
+    "measure":3,
+   "instruments":{
+       "call":{
+           "name":"call",
+           "instrument": "djembe",
+           "length":12,
+            "repeat":1,
+            "sound_channels":1,
+           "notes":[
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"empt"
+            }        
+           ]
+       },
+       "djembe1":
+      {   
+          "name":"djembe1",
+         "instrument":"djembe",
+         "length":12,
+         "repeat":1,
+          "sound_channels":1,
+         "notes":[
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"bass"
+            },{
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"bass"
+            }
+         ]
+      },
+        "djembe2":
+       {
+           "name":"djembe2",
+         "instrument":"djembe",
+         "length":12,
+         "repeat":1,
+          "sound_channels":1,
+         "notes":[
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"slap"
+            },
+             {
+               "djembe":"open"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"empt"
+            },
+            {
+               "djembe":"open"
+            },
+            {
+               "djembe":"slap"
+            },
+            {
+               "djembe":"slap"
+            }
+         ]
+      },
+    
+    "kenkeni": 
+       {
+           "name":"kenkeni",
+         "instrument":"dundun",
+         "length":12,
+         "repeat":1,
+          "sound_channels":2,
+         "notes":[
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+             {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            }
+         ]
+      },
+       "sangban":
+      {
+          "name":"sangban",
+         "instrument":"dundun",
+         "length":12,
+         "repeat":1,
+          "sound_channels":2,
+         "notes":[
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"closed"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"closed"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            }
+         ]
+      },
+       "dounoumba":
+       {
+           "name":"dounoumba",
+         "instrument":"dundun",
+         "length":12,
+         "repeat":1,
+          "sound_channels":2,
+         "notes":[
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"empt"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            },
+            {
+               "bell":"empt",
+               "dundun":"empt"
+            },
+            {
+               "bell":"open",
+               "dundun":"bass"
+            }
+         ]
+      }      
+    }
+},
+ {
+	"name": "djansa",
+	"pattern_length": 16,
+	"measure": 4,
+	"instruments": {
+		"call": {
+			"name": "call",
+			"instrument": "djembe",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 1,
+			"notes": [{
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}]
+		},
+		"djembe1": {
+			"name": "djembe1",
+			"instrument": "djembe",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 1,
+			"notes": [{
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}]
+		},
+		"djembe2": {
+			"name": "djembe2",
+			"instrument": "djembe",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 1,
+			"notes": [{
+				"djembe": "bass"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "bass"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "slap"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "empt"
+			}, {
+				"djembe": "open"
+			}, {
+				"djembe": "empt"
+			}]
+		},
+		"kenkeni": {
+			"name": "kenkeni",
+			"instrument": "dundun",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 2,
+			"notes": [{
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "closed"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "closed"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}]
+		},
+		"sangban": {
+			"name": "sangban",
+			"instrument": "dundun",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 2,
+			"notes": [{
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "closed"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}]
+		},
+		"dounoumba": {
+			"name": "dounoumba",
+			"instrument": "dundun",
+			"length": 16,
+			"repeat": 1,
+			"sound_channels": 2,
+			"notes": [
+			 {
+				"bell": "open",
+				"dundun": "closed"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "bass"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}, {
+				"bell": "open",
+				"dundun": "empt"
+			}, {
+				"bell": "empt",
+				"dundun": "empt"
+			}]
+		}
+	}
+}
+ ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
